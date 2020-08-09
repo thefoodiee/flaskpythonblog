@@ -1,0 +1,22 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/techy blog",
+        "prod_uri":"mysql://root:@localhost/techy blog",
+        "fb_url":"https://facebook.com/techyblog",
+        "tw_url":"https://twitter.com/techyblog",
+        "gh_url":"https://github.com/techyblog",
+        "insta_url":"https://instagram.com/noerror404usernamefound",
+        "blog_name":"The Techy Blog",
+        "blog_tag":"A Place Where Technology Meets You",
+        "gmail-user":"sire.saini26@gmail.com",
+        "gmail-password":"dob23052005",
+        "about_text":"Hello! Welcome to My Techy Blog where you can find the best technology related blogs",
+        "no_of_posts":2,
+        "login_img":"icon.png",
+        "admin_user":"sire",
+        "admin_password":"sire",
+        "upload_location":"D:\\New folder\\static\\img"
+    }
+}
